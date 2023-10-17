@@ -6,6 +6,8 @@ layout: default
 
 THis is my second line
 
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
