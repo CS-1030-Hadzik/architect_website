@@ -4,6 +4,8 @@ layout: default
 
 # This is the beginning of my website. Scott Hadzik
 
+<img src="assets/images/Hadzik.jpg" alt="picture of Scott Hadzik">
+
 THis is my second line
 
 <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
